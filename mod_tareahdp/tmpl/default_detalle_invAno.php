@@ -3,7 +3,7 @@
 defined('_JEXEC') or die('Acceso restringido<br />Buen intento!');
 ?>
 
-<h1>INVERSION POR ANO</h1>
+<h1>INVERSION POR ANO(organismos)</h1>
      <br/>
 <div>
 <h3>DETALLE INVERSION DEL ANO:</h3>
