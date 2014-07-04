@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS `#__usuarios`;
+DROP TABLE IF EXISTS `#__organismos`;
+DROP TABLE IF EXISTS `#__inversion`;
+DROP TABLE IF EXISTS `#__rubros`;
+
