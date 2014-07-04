@@ -1,6 +1,6 @@
 <?php 
 defined('_JEXEC') or die('Acceso restringido<br />Buen intento!');
-
+//comentario para probar commit
 
 
 class UsuarioDB{
