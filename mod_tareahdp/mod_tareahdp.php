@@ -5,7 +5,7 @@ defined('_JEXEC') or die;
 require_once dirname(__FILE__) . '/helper.php';
 //Llama al metodo mostrarRegistro del archivo helper.phpfunction rubro_inv($inver){
 
-//prueba comit
+
 $layout = $params->get('layout', 'default');//asignamos un objeto de tipo layout con default (nuestro archivo default.php) como parametro
 $mensaje='';
 
