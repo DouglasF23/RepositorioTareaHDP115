@@ -11,6 +11,7 @@
           <option selected disabled>--Seleccionar filtro--</option>
           <option>Inversion por Ano</option>
           <option>Inversion por Organismo</option>
+          <option>Inversion total</option> 
         </select>
     
     <input type="submit" name="filtroConsul" value="Consultar" />
