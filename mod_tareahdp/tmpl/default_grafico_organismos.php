@@ -8,7 +8,7 @@ $graph = new PHPlot();
 $graph->SetDataValues($data);
 $graph->SetDataType("text-data");
 $graph->SetPlotType("pie");
-$graph->SetTitle("Resultados de la inversion");
+$graph->SetTitle("Resultados");
 $graph->SetLegend(
 		array("inversion A", "inversion B",
 				" inversion C", " inversion D"));
